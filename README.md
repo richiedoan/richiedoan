@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Richie 👋
 
-<!--
-**doanhung030498/doanhung030498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer with 5+ years of experience building web applications.
 
-Here are some ideas to get you started:
+I work with React, TypeScript, Java, SQL, and real-time systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm exploring
+Building AI-powered workflows that help non-technical people turn their ideas into polished, secure, and reliable web applications.
+
+### What I care about
+- Frontend engineering and thoughtful UI/UX
+- Web performance, security, and maintainability
+- Making web development more accessible through AI
+- Building useful products that solve real problems
